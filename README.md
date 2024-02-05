@@ -1,8 +1,5 @@
 # Lista de Libros - Aplicación Web
 
-![Libro](https://e7.pngegg.com/pngimages/920/640/png-clipart-book-book-books-thumbnail.png)
-
-
 ## Desarrollador
 Anthony Josue Lozano Portilla
 
