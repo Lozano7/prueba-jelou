@@ -1,6 +1,6 @@
 # Lista de Libros - Aplicación Web
 
-![Libros](./images/bookshelf.png)
+![Libros](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fes%2Fsearch%3Fq%3Dlibro&psig=AOvVaw1TBkQ6bcho_HBxDq4MAZSC&ust=1707201152900000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJij5M_Kk4QDFQAAAAAdAAAAABAE)
 
 ## Desarrollador
 Anthony Josue Lozano Portilla
