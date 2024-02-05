@@ -82,7 +82,7 @@ La aplicación ha sido diseñada y desarrollada para proporcionar una experienci
 
 ## Instalación 
 ```bash
-git clone https://github.com/tu-usuario/tu-repo.git](https://github.com/Lozano7/prueba-jelou.git)https://github.com/Lozano7/prueba-jelou.git
+git clone https://github.com/Lozano7/prueba-jelou.git
 cd tu-repo
 npm install
 npm run dev
